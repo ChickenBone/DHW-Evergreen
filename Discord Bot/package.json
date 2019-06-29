@@ -1,0 +1,16 @@
+{
+  "name": "minty-bot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "author": "The Minty Team",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "11.5.1",
+    "moment": "^2.24.0",
+    "string-similarity": "^3.0.0"
+  }
+}
