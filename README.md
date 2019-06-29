@@ -2,6 +2,7 @@
 <a href="https://mintdev.co/evergreen">Evergreen Website</a>
 
 <b>Commands</b>
+<br>
 We are extreamly excited to present a new bot to the Discord scene and we are extreamly happy to have all of these wonderful features!
 <br>
 help
